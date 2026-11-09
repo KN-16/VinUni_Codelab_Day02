@@ -1,4 +1,4 @@
-# 📖 Hướng Dẫn Học Viên (Student Guide) — Lab 02: AI Product Scoping
+    # 📖 Hướng Dẫn Học Viên (Student Guide) — Lab 02: AI Product Scoping
 
 Tài liệu này hướng dẫn chi tiết cách thiết lập môi trường lập trình Python, cấu hình API Key, quy trình phân nhánh Git làm việc nhóm và chuẩn bị sản phẩm nộp bài cho **Lab 02: AI Product Scoping (Vin Smart Future)**.
 
